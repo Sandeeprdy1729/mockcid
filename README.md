@@ -2,7 +2,7 @@
 
 A production-grade interactive web application that simulates a realistic smartphone operating system where players investigate a missing journalist's phone to locate a hidden physical pen drive.
 
-## 🏗️ Project Architecture
+##  Project Architecture
 
 ```
 src/
@@ -27,7 +27,7 @@ src/
 
 ```
 
-## 🎮 Core Systems
+##  Core Systems
 
 ### 1. **Progression Engine**
 - Centralized clue tracking system
@@ -63,7 +63,7 @@ src/
 - Players can restore mid-game progress
 - Reset functionality available
 
-## 🎮 How to Play
+##  How to Play
 
 1. **Unlock Phone** - Enter PIN: `1028` (hint: "The bench remembers")
 2. **Explore Apps** - Open all 6 apps to collect clues
@@ -71,7 +71,7 @@ src/
 4. **Discover the Solution** - Once all clues collected, a "🔍 Solve" button appears
 5. **Final Choice** - Choose to EXPOSE or JOIN the conspiracy
 
-## 🎯 Passwords & Hints
+##  Passwords & Hints
 
 | App | Password | Hint |
 |-----|----------|------|
@@ -81,14 +81,14 @@ src/
 | Chat | RailwayCafe | Where we first met. |
 | Files | 0028 | Battery low. |
 
-## 🔑 Key Features
+##  Key Features
 
-✅ **Modular Architecture**
+ **Modular Architecture**
 - Clean separation of concerns
 - Component-based UI
 - Abstracted business logic
 
-✅ **Smart Game Progression**
+**Smart Game Progression**
 - Requirements-based unlock system
 - Prevents solution reveal without proper exploration
 - Tracks player interactions
